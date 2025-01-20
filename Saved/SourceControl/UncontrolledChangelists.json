@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/HP/Documents/Unreal Projects/Weapon_Wheel/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/HP/Documents/Unreal Projects/Weapon_Wheel/Content/WeaponWheel/BP/WDG_WeaponButton.uasset",
+				"C:/Users/HP/Documents/Unreal Projects/Weapon_Wheel/Content/WeaponWheel/BP/WDG_WeaponWheel.uasset",
+				"C:/Users/HP/Documents/Unreal Projects/Weapon_Wheel/Content/WeaponWheel/Materials/MF_Section.uasset",
+				"C:/Users/HP/Documents/Unreal Projects/Weapon_Wheel/Content/WeaponWheel/Materials/M_WeaponWheel.uasset",
+				"C:/Users/HP/Documents/Unreal Projects/Weapon_Wheel/Content/WeaponWheel/Materials/MI_WeaponWheel.uasset",
+				"C:/Users/HP/Documents/Unreal Projects/Weapon_Wheel/Content/BP_Sphere.uasset",
+				"C:/Users/HP/Documents/Unreal Projects/Weapon_Wheel/Content/StarterContent/Maps/StarterMap.umap",
+				"C:/Users/HP/Documents/Unreal Projects/Weapon_Wheel/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/HP/Documents/Unreal Projects/Weapon_Wheel/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/HP/Documents/Unreal Projects/Weapon_Wheel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/83/VAGQKA6G4SS3ZM683SYD1R.uasset"
+			]
+		}
+	]
+}
